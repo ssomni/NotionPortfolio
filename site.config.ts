@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config';
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'd1e89e9e42eb4ebf9486ae0374039efc',
+  rootNotionPageId: 'songmin-536653bc904045eaa6a494eb88be4a39',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -53,8 +53,8 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: '카테고리',
-      pageId: '36400db511474331b5c1de6918212469',
+      title: '이력서',
+      pageId: 'ea918ec0139b4265bf1ac40528a13f93',
     },
   ],
 
