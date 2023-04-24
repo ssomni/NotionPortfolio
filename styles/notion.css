@@ -152,13 +152,13 @@
   padding-bottom: 1em;
 }
 
-.notion-collection-page-properties .notion-collection-column-title {
+/* .notion-collection-page-properties .notion-collection-column-title {
   display: none;
-}
+} */
 
 .notion-collection-row-property .notion-property {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .notion-collection-row-value {

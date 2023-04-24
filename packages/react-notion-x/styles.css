@@ -454,10 +454,11 @@
 }
 
 .notion-h:hover .notion-hash-link {
-  opacity: 1;
+  display: none;
 }
 
 .notion-hash-link {
+  display: none;
   opacity: 0;
   text-decoration: none;
   float: left;
