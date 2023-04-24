@@ -422,10 +422,10 @@ body {
   .notion-quote {
     font-style: normal;
     font-size: var(--base-font-size);
-    border-color: var(--primary-color);
+    border-color: black;
     padding: 1rem 1rem 1rem 2rem;
     position: relative;
-    background-color: var(--fg-color-lighten);
+    background-color: white;
     transition: 250ms background-color;
   }
 
