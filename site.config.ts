@@ -9,16 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '2skydev blog',
-  domain: 'blog.2skydev.com',
-  author: '2skydev',
+  name: 'songmin portfolio',
+  domain: 'https://songmin-portfolio-6sptbp58y-ssomni.vercel.app/',
+  author: 'songmin',
 
   // open graph metadata (optional)
-  description: '2skydev blog - developer blog',
+  description: 'songmin portfolio',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: '2skydev',
+  github: 'ssomni',
   // linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
