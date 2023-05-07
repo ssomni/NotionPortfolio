@@ -1051,7 +1051,7 @@ svg.notion-page-icon {
 }
 
 .notion-spacer {
-  width: calc(min(32px, 4vw));
+  width: calc(min(32px, 2vw));
 }
 
 .notion-spacer:last-child {

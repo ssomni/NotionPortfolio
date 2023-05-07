@@ -31,7 +31,7 @@
 .notion .notion-inline-code {
   color: rgb(42, 42, 42);
   background: rgba(127, 122, 107, 0.1) !important;
-  padding: 0.2em 0.4em !important;
+  padding: 0.2em 0em !important;
 }
 
 .token.cdata,

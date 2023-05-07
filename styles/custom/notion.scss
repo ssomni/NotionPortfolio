@@ -356,7 +356,7 @@ body {
 
   // 일반 본문
   .notion-text {
-    padding: 0.2em 2px;
+    padding: 0.1em 2px;
   }
 
   // 리스트
@@ -435,8 +435,8 @@ body {
   .notion-quote {
     font-style: normal;
     font-size: var(--base-font-size);
-    border-color: black;
-    padding: 1rem 1rem 1rem 2rem;
+    border-color: rgb(180, 180, 180);
+    padding: 1rem 0rem 1rem 1.5rem;
     position: relative;
     background-color: white;
     transition: 250ms background-color;
