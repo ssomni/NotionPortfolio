@@ -32,6 +32,10 @@ const PageLoading = () => {
   return (
     <div className={cs('PageLoading', (isFallback || loading) && 'visible')}>
       <div className="icon"></div>
+      <div className="text">
+        <p>이미지가 많아 로딩이 오래걸릴 수 있습니다.</p>
+        <p> 잠시만 기다려주세요! </p>
+      </div>
     </div>
   );
 };
