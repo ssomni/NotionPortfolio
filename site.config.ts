@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'songmin portfolio',
-  domain: 'https://songmin-portfolio-6sptbp58y-ssomni.vercel.app/',
+  domain: 'https://songmin-portfolio-ssomni.vercel.app/',
   author: 'songmin',
 
   // open graph metadata (optional)
@@ -54,6 +54,10 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '이력서',
+      pageId: 'ea918ec0139b4265bf1ac40528a13f93',
+    },
+    {
+      title: 'blog',
       pageId: 'ea918ec0139b4265bf1ac40528a13f93',
     },
   ],
