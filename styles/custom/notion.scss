@@ -438,7 +438,6 @@ body {
     border-color: rgb(180, 180, 180);
     padding: 1rem 0rem 1rem 1.5rem;
     position: relative;
-    background-color: white;
     transition: 250ms background-color;
   }
 
@@ -651,7 +650,7 @@ body {
         }
 
         .notion-collection-card-property:nth-child(2) {
-          height: 62px;
+          padding-bottom: 14px;
 
           .notion-property-text {
             width: 100%;
